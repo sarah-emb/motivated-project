@@ -2633,7 +2633,7 @@ input, select, textarea {
 		/* Carousel */
 
 			.carousel {
-				padding: 1.5em 0 1.5em 0;
+				padding: 5em 0 1.5em 0;
 			}
 
 				.carousel .reel {
@@ -2641,7 +2641,7 @@ input, select, textarea {
 				}
 
 				.carousel article {
-					width: 18em;
+					width: 38.5em;
 					margin: 0 1.25em 0 0;
 				}
 
