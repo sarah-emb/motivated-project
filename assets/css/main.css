@@ -2610,7 +2610,7 @@ input, select, textarea {
 				position: relative;
 				left: 0;
 				top: 0;
-				width: auto;
+				width: 50;
 				margin-right: -2em;
 				margin-bottom: 3em;
 			}
