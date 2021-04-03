@@ -2410,12 +2410,19 @@ input, select, textarea {
 	#banner {
 		background: #fff;
 		text-align: center;
-		padding: 4.5em 0 4.5em 0;
+		padding: 1em 0 0 0;
 		margin-bottom: 0;
 	}
 
 		#banner header > p {
 			margin-bottom: 0;
+		}
+
+/* Subtitle */
+
+		.subtitle {
+			text-align: center;
+			margin-bottom: 2em;
 		}
 
 /* Content */
@@ -2633,7 +2640,7 @@ input, select, textarea {
 		/* Carousel */
 
 			.carousel {
-				padding: 5em 0 1.5em 0;
+				padding: 1.5em 0 1.5em 0;
 			}
 
 				.carousel .reel {
