@@ -33,6 +33,10 @@ body {
 	line-height: 1;
 }
 
+.sep{
+	text-indent: -10000em;
+}
+
 ol, ul {
 	list-style: none;
 }
